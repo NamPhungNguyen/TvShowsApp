@@ -16,7 +16,7 @@
         android:layout_height="match_parent"
         android:background="@color/colorPrimary"
         android:animateLayoutChanges="true"
-        tools:context=".MainActivity">
+        tools:context=".Activities.MainActivity">
 
         <LinearLayout
             android:id="@+id/layoutHeader"
